@@ -1,2 +1,1 @@
-# color-wheel-for-philips-hue
-This repo has been moved to http://github.com/benknight/huewheel
+This repo has been moved to http://github.com/benknight/hue-harmony
